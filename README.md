@@ -1,6 +1,6 @@
 # FrickCheaters CORE
 A core plugin, required by all FrickCheaters versions.    
-Copyright (C) 2021  OpenSend Technologies & Ollie Killean  [[License](https://github.com/FrickCheaters/CORE/blob/master/LICENSE)]
+Copyright (C) 2021  OpenSend Technologies & Ollie Killean  [[License](https://github.com/FrickCheaters/CORE/blob/master/LICENSE.md)]
 
 ## Versioning
 The version numbers/codes for releases are created as follows:
