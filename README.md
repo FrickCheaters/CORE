@@ -1,5 +1,5 @@
 # FrickCheaters CORE
-A core plugin, required by all FrickCheaters versions.
+A core plugin, required by all FrickCheaters versions.    
 Copyright (C) 2021  OpenSend Technologies & Ollie Killean  [[License](https://github.com/FrickCheaters/1.16/blob/master/LICENSE)]
 
 ## Contributing
