@@ -1,5 +1,5 @@
 name: FrickCheaters_CORE
-version: 1.0-SNAPSHOT
+version: 2021.1.1-pre
 main: net.opensend.FrickCheaters_CORE.FrickCheaters_CORE
 load: STARTUP
 depend:

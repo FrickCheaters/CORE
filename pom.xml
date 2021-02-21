@@ -6,7 +6,7 @@
 
     <groupId>net.opensend</groupId>
     <artifactId>FrickCheaters_CORE</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>2021.1.1-pre</version>
 
     <repositories>
         <repository>
