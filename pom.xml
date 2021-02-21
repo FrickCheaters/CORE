@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>net.opensend</groupId>
+    <artifactId>FrickCheaters_CORE</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <repositories>
+        <repository>
+            <id>spigot-repo</id>
+            <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
+        </repository>
+        <repository>
+            <id>dmulloy2-repo</id>
+            <url>https://repo.dmulloy2.net/nexus/repository/public/</url>
+        </repository>
+    </repositories>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.spigotmc</groupId>
+            <artifactId>spigot</artifactId>
+            <version>1.16.1-R0.1-SNAPSHOT</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.bukkit</groupId>
+            <artifactId>bukkit</artifactId>
+            <version>1.16.1-R0.1-SNAPSHOT</version>
+            <type>jar</type>
+            <scope>system</scope>
+            <systemPath>E:/BuildTools/1.16.1/Bukkit/target/bukkit-1.16.1-R0.1-SNAPSHOT.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>org.bukkit.1.craftbukkit</groupId>
+            <artifactId>craftbukkit</artifactId>
+            <version>1.16.1-R0.1-SNAPSHOT</version>
+            <type>jar</type>
+            <scope>system</scope>
+            <systemPath>E:/BuildTools/1.16.1/CraftBukkit/target/craftbukkit-1.16.1-R0.1-SNAPSHOT.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>org.bukkit.2.craftbukkit</groupId>
+            <artifactId>craftbukkit</artifactId>
+            <version>1.16.2-R0.1-SNAPSHOT</version>
+            <type>jar</type>
+            <scope>system</scope>
+            <systemPath>E:/BuildTools/1.16.2/CraftBukkit/target/craftbukkit-1.16.2-R0.1-SNAPSHOT.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>org.bukkit.3.craftbukkit</groupId>
+            <artifactId>craftbukkit</artifactId>
+            <version>1.16.4-R0.1-SNAPSHOT</version>
+            <type>jar</type>
+            <scope>system</scope>
+            <systemPath>E:/BuildTools/1.16.4/CraftBukkit/target/craftbukkit-1.16.4-R0.1-SNAPSHOT.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>com.comphenix.protocol</groupId>
+            <artifactId>ProtocolLib</artifactId>
+            <version>4.5.0</version>
+        </dependency>
+    </dependencies>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+</project>
